@@ -1,4 +1,4 @@
-# HOgit
+# HOgit en Proyecto UNQ de Ianina
 Repositorio con ejercicios para practicar comandos básicos de git
 
 ## Qué podemos hacer
